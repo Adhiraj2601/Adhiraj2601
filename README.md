@@ -89,6 +89,11 @@
   <img src="https://raw.githubusercontent.com/Adhiraj2601/Adhiraj2601/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhiraj2601&theme=github-dark" alt="Contribution Graph" />
+</p>
 
 ## Contribution Philosophy
 
