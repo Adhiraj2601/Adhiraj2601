@@ -27,18 +27,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 I'm a **final Year Engineering Student** passionate about building **real-world scalable systems**.  
-💻 I specialize in **Full Stack Development + Artificial Intelligence**.  
-🚀 I believe in **learning by building and committing consistently**.  
+- I'm a **final Year Engineering Student** passionate about building **real-world scalable systems**.  
+- I specialize in **Full Stack Development + Artificial Intelligence**.  
+- I believe in **learning by building and committing consistently**.  
 
-🔥 Currently:
+### Currently:
 - Improving my **programming skills on LeetCode**
 - Practicing **DSA + System Design**
 - Improving through **daily GitHub contributions**
 
-🎯 Goal: Become a **top-tier Software Engineer + AI Engineer**
+### Goal: Become a **top-tier Software Engineer + AI Engineer**
 
 ---
 
@@ -75,12 +75,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhiraj2601&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhiraj2601&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiraj2601&layout=compact&theme=tokyonight" />
 </p>
 
 ## Contribution Snake
@@ -146,11 +141,10 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adhiraj2601&theme=tokyonight&row=1&column=6" />
-</p>
+### 🎨 PyCasso
+- Browser-based Python canvas puzzle game
+- React + In-Browser Pyodide Execution
+🔗 Link: https://py-casso.vercel.app/
 
 ---
 
