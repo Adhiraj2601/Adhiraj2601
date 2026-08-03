@@ -119,6 +119,11 @@
 - React + In-Browser Pyodide Execution
 - 🔗 Link: https://py-casso.vercel.app/
 
+### ♟️ JS Chess Game
+- Browser-based vanilla JavaScript chess game
+- HTML5 + CSS3 + Dynamic DOM Interaction
+- 🔗 Link: https://js-chess-game-54sjzbs2b-adicsprojects.vercel.app/
+  
 ---
 
 
