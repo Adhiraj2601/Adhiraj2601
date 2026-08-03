@@ -114,33 +114,6 @@
 
 ## Project Highlights
 
-### 🤖 AI Resume Analyzer
-- AI-based resume feedback system  
-- Tech: React, Node.js, OpenAI  
-🔗 Link: *Coming Soon*
-
----
-
-### 🔐 Blockchain E-Voting System
-- Secure voting using blockchain  
-- Transparent and tamper-proof  
-🔗 Link: *Coming Soon*
-
----
-
-### 📊 ML Prediction Dashboard
-- Data visualization + ML predictions  
-- Full Stack + ML integration  
-🔗 Link: *Coming Soon*
-
----
-
-### 🧠 Smart Code Reviewer (AI)
-- AI-based code improvement suggestions  
-🔗 Link: *Coming Soon*
-
----
-
 ### 🎨 PyCasso
 - Browser-based Python canvas puzzle game
 - React + In-Browser Pyodide Execution
