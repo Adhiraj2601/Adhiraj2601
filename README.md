@@ -144,7 +144,7 @@
 ### 🎨 PyCasso
 - Browser-based Python canvas puzzle game
 - React + In-Browser Pyodide Execution
-🔗 Link: https://py-casso.vercel.app/
+- 🔗 Link: https://py-casso.vercel.app/
 
 ---
 
